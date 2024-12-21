@@ -1,0 +1,6 @@
+<div *ngFor="let song of songs" class="song-card">
+    <h3>{{ song.title }}</h3>
+    <p>Artist: {{ song.artist }}</p>
+    <button (click)="playSong(song)">Play</button>
+    <button (click)="stopSong(song)">Stop</button>
+  </div>

@@ -1,0 +1,18 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "Song by Sidhu Moosewala",
+        "artist": "Sidhu Moosewala",
+        "url": "assets/audio/song1.mp3",
+        "actions": ["play", "stop"]
+      },
+      {
+        "id": 2,
+        "title": "Song by Karan Aujla",
+        "artist": "Karan Aujla",
+        "url": "assets/audio/song2.mp3",
+        "actions": ["play", "stop"]
+      }
+    ]
+  }
